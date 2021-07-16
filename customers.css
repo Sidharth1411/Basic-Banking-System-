@@ -1,0 +1,79 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.bg-light {
+    background-color: rgb(77, 104, 104);
+}
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #1a1a1b;
+}
+
+.nav-link {
+    color: #232425;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-link:hover {
+    background-color: lightgreen;
+}
+
+.my-info {
+    padding: 2rem 5rem;
+}
+
+.btn-info {
+    padding: 1rem 1.2rem;
+    background-color: rgb(211, 121, 128);
+    color: rgb(240, 233, 233);
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.5s;
+}
+
+.btn-info:hover {
+    background-color: lightgreen;
+}
+
+#a {
+    color: #312c51;
+}
+
+.navbar-brand img {
+    height: 55px;
+    padding-left: 30px;
+}
+
+th {
+    background-image: linear-gradient(cream);
+}
+
+td {
+    background-image: linear-gradient(#f0f0f0, #f0f0f0);
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+}
+
+footer {
+    text-align: center;
+    height: 200px;
+    color: seashell;
+    background-color: rgba(80, 11, 54, 0.856);
+}
+
+.lfooter {
+    margin-top: 20px;
+    padding-bottom: 0%;
+    height: 30%;
+    color: #333;
+    background-color: rgb(255, 255, 255);
+}
